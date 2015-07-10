@@ -1,5 +1,5 @@
 # MRTG
-MRTG Setting and Scripts.
+MRTG Setting and Scripts. (Debian)
 
 IndexMaker:
 
